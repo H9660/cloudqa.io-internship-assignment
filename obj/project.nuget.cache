@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OvdEKyryxFCq+4eK9i5tjZi3QR0ZUp3JvbMAOHiFeSc5YsEzj2wrhW7XvKm0MHUWHwZkrLXmUTqlcofSJ7q4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atanu\\OneDrive\\Desktop\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atanu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\selenium.webdriver.chromedriver\\111.0.5563.6400\\selenium.webdriver.chromedriver.111.0.5563.6400.nupkg.sha512"
+  ],
+  "logs": []
+}
